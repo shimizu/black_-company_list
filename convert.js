@@ -70,7 +70,7 @@ const shaping = (json) => {
         return tr
     }))
     
-    const reslut = cleand.map(d => {
+    const result = cleand.map(d => {
         let obj = {}
         head.forEach((key,i) => {
             obj[key] = d[i]
@@ -78,7 +78,7 @@ const shaping = (json) => {
         return obj
     })
         
-    return reslut
+    return result
 }
 
 
