@@ -1,0 +1,16 @@
+{
+  "name": "blackCoList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "dependencies": {
+    "d3-dsv": "^1.0.5",
+    "pdf-table-extractor": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
